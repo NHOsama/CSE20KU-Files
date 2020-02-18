@@ -1,2 +1,2 @@
-# cse20ku-files
+# CSE20KU-Files
 Files of CSE'20 of KU
